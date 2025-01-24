@@ -19,7 +19,7 @@ import java.io.FileReader;
 public class Ex08_03 {
 	
 	public static void main(String[] args) {
-	String fileName = "C:\\Class\\JavaClass\\JavaClass\\javaPro\\src\\days01\\Ex05.java";
+	String fileName = "C:\\Users\\SIST52\\git\\HD_Java_PR\\javaPro\\src\\days15\\Ex06.java";
 	
 	// [FileReader] / FileWritter 클래스
 	
